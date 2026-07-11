@@ -73,8 +73,7 @@ const Hero = () => {
         <motion.div variants={itemVariants} className="mb-8">
           <div className="inline-flex items-center gap-2 rounded-full border border-sky-500/20 bg-white/70 px-4 py-2 text-sm font-medium text-slate-700 shadow-lg shadow-sky-500/10 backdrop-blur-xl dark:border-slate-700/60 dark:bg-slate-900/70 dark:text-slate-200">
             <div className="h-2.5 w-2.5 animate-pulse rounded-full bg-gradient-to-r from-sky-500 to-orange-500" />
-            <span>Available for freelance and full-time opportunities</span>
-          </div>
+              </div>
         </motion.div>
 
         {/* Main Heading */}
